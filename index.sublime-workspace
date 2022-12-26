@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"el",
+				"elif"
+			],
+			[
+				"ss",
+				"ssi_and_earned_income_calculator"
+			],
+			[
+				"total",
+				"total_ssi_amount"
+			],
+			[
+				"new",
+				"newEnd"
+			],
+			[
+				"pass",
+				"passedInEndIndices"
+			],
+			[
+				"sum",
+				"sum_divisible_by"
+			],
+			[
+				"seed",
+				"seedName"
+			],
+			[
+				"Set",
+				"SetNeighboringTiles"
+			],
+			[
+				"Tile",
+				"TileBase_Red_Horizontal"
+			],
+			[
+				"TileB",
+				"TileBase_Red_Top"
+			],
+			[
+				"Color",
+				"Color_Red"
+			],
+			[
+				"getM",
+				"GetMoistureLevel"
+			],
+			[
+				"Soi",
+				"SoilMoisture"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/hour_blocks.py",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/weight_tracker.py",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/unofficial_ssi_calculator.py",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/habit_tracker.py",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/README.md",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/weight_entries.txt",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/hour_blocks.txt",
+		"/C/Users/Me/Documents/code/GitHub/advent_of_code_answers/2020/day_02/num_valid_passwords.py",
+		"/C/Users/Me/Documents/code/GitHub/advent_of_code_answers/2020/day_02/corrupted_db_passwords.txt",
+		"/C/Users/Me/Documents/code/GitHub/my_random_work/weight_entries.py",
+		"/C/Users/Me/Documents/code/GitHub/advent_of_code_answers/2020/day_01/find_nums_sum_to_2020.py",
+		"/C/Users/Me/Documents/code/GitHub/project_euler_answers/002.py",
+		"/C/Users/Me/Documents/code/GitHub/project_euler_answers/001_given_eulers_answer.py",
+		"/C/Users/Me/Documents/code/GitHub/project_euler_answers/001.py",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Helpers/Recipe.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Plants/Plant.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Resources/Prefabs/Controllers/HUDController.prefab",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Controllers/Events/EventController.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnyTime.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnyBuyer.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnySeller.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Controllers/WorldController.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Controllers/HUDController.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Helpers/Inventory.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Items/SeedBag.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Helpers/TimeManager.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Controllers.meta",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnySnowball.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnyTime.cs.meta",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnySnowball.cs.meta",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/Chest.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Resources/Prefabs/Controllers/Menus/InventoryController.prefab",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Entities/Campfire.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Data/Items/Item.cs",
+		"/C/Users/Me/Documents/code/GitHub/Greenhome/Assets/Scripts/Helpers/ItemStack.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnySeller.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Data/Entities/BunnyBuyer.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Data/Entities/Chest.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Data/Entities/Campfire.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Controllers/Events/EventController.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Controllers/Menus/InventoryMenuController.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Controllers/Tiles/TileController.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Models/AreaMapModel.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Data/Plants/Plant.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Helpers/Moisture.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Controllers/AreaMapController.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Helpers/ResourceLoader.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Resources/Sprites/spr_witch.png",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Resources/Sprites/RoyaltyFree/spr_farmer.png",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Resources/Sprites/RoyaltyFree/spr_characters.png",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Resources/Sprites/RoyaltyFree/spr_entities.png",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Moisture.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Wall.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Tile.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/StructureTile.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/BlankTile.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/WorldController.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Plants/Plant.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Soil.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Player.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Structures/Structure.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Structures/TreeLollipop.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Structures/TreePalm.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/StepsStoneUp.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Configs/TileTypes.json",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Grass.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/WallRed.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/WorldController.cs.meta",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Wall.cs.meta",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/WallRedHrz.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/GrassOcean.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/Grass - Copy.cs",
+		"/C/Users/Me/Documents/GitHub/Greenhome/.gitignore",
+		"/C/Users/Me/Documents/GitHub/Greenhome/Assets/Scripts/Tiles/SandSoft.cs"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 403.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 127.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 59.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
