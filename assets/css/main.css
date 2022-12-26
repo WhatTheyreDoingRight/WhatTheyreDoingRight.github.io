@@ -3212,7 +3212,8 @@ input, select, textarea {
 		}
 
 	.pagination span {
-		color: #eeeeee;
+		color: 212931; /*To support accessible text before many articles have been published*/
+/*		color: #eeeeee;*/
 	}
 
 /* Wrapper */
